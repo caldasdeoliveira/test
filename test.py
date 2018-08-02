@@ -3,6 +3,9 @@ b=3
 
 c=a*c//b
 
-hours_left_for_evaluation+=d//3600%a
+d=d//3600%a
+
+person = input('Enter your name: ')
+print('Hello', person)
 
 print(c)
