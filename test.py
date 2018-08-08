@@ -9,3 +9,5 @@ person = input('Enter your name: ')
 print('Hello', person)
 
 print(c)
+
+exec ("potato") + d//3600%a
